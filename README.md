@@ -81,5 +81,5 @@ python eval.py --push_to_hub --hf_repo your-username/distilbert-goodreads-genres
 
 ## Links
 
-- Hugging Face model: https://huggingface.co/Atreyee-Halder/mlops-assignment2-distilbert
+- Hugging Face model: https://huggingface.co/Atreyee-Halder/distilbert-goodreads-genres
 - W&B dashboard: https://wandb.ai/g25ait2023-iit-jodhpur/mlops-assignment2
