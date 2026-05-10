@@ -75,9 +75,9 @@ python eval.py --push_to_hub --hf_repo your-username/distilbert-goodreads-genres
 
 | Metric    | Score |
 |-----------|-------|
-| Accuracy  | 0.205 |
-| F1 Score  | 0.133 |
-| Eval Loss | 2.054 |
+| Accuracy  | 0.204 |
+| F1 Score  | 0.128 |
+| Eval Loss | 2.055 |
 
 ## Links
 
